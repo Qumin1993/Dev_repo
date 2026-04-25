@@ -2,30 +2,29 @@
   "schemaVersion": 1,
   "baseUrl": "https://raw.githubusercontent.com/Qumin1993/Dev_repo/main/",
   "app": {
-    "name": "Print & Play Dev",
-    "description": "Testowe repo do sprawdzania nowych zadań.",
+    "name": "Print & Play",
+    "description": "Materiały do druku dla dzieci. Nauka i zabawa bez ekranu.",
     "ageRange": "3-8"
   },
   "categories": [
     {
-      "id": "testy",
-      "title": "Testy",
-      "tile": "Testy/cienie.png",
+      "id": "kolorowanki",
+      "title": "Kolorowanki",
+      "tile": "categories/kolorowanki/cienie.png",
       "subcategories": [
         {
-          "id": "picker",
-          "title": "Picker test",
+          "id": "dinozaury",
+          "title": "Dinozaury",
           "items": [
             {
-              "id": "cienie_test_1",
-              "title": "Cienie test",
-              "pdf": "Testy/cienie.pdf",
-              "thumb": "Testy/cienie.png",
-              "solution": "Testy/cienie_solution.png",
-              "type": "select_object"
+              "id": "dino1",
+              "title": "Dino1",
+              "pdf": "categories/kolorowanki/dinozaury/cienie.pdf",
+              "thumb": "categories/kolorowanki/dinozaury/cienie.png",
+              "solution": "categories/kolorowanki/dinozaury/cienie_solution.png",
+              "type": "paint"
             }
-          ],
-          "subcategories": []
+           ]
         }
       ]
     }
