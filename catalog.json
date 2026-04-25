@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "baseUrl": "https://raw.githubusercontent.com/Qumin1993/Dev_repo/main/Dev_repo/",
+  "baseUrl": "https://raw.githubusercontent.com/Qumin1993/Dev_repo/main",
   "app": {
     "name": "Print & Play Dev",
     "description": "Testowe repo do sprawdzania nowych zadań.",
@@ -10,7 +10,7 @@
     {
       "id": "testy",
       "title": "Testy",
-      "tile": "cienie.png",
+      "tile": "Testy/cienie.png",
       "subcategories": [
         {
           "id": "picker",
@@ -19,9 +19,9 @@
             {
               "id": "cienie_test_1",
               "title": "Cienie test",
-              "pdf": "cienie.pdf",
-              "thumb": "cienie.png",
-              "solution": "cienie_solution.png",
+              "pdf": "Testy/cienie.pdf",
+              "thumb": "Testy/cienie.png",
+              "solution": "Testy/cienie_solution.png",
               "type": "select_object"
             }
           ],
