@@ -10,7 +10,7 @@
     {
       "id": "test",
       "title": "Test",
-      "tile": "Dev_repo/Test/cienie.png",
+      "tile": "Test/cienie.png",
       "subcategories": [
         {
           "id": "test",
@@ -18,50 +18,50 @@
           "items": [
             {
               "id": "cienie_test_1",
-              "title": "Cienie test",
-              "pdf": "Dev_repo/Test/cienie.pdf",
-              "thumb": "Dev_repo/Test/cienie.png",
-              "solution": "Dev_repo/Test/cienie_solution.png",
+              "title": "Cienie test 1",
+              "pdf": "Test/cienie.pdf",
+              "thumb": "Test/cienie.png",
+              "solution": "Test/cienie_solution.png",
               "type": "select_object"
             },
             {
               "id": "cienie_test_11",
-              "title": "Cienie test",
-              "pdf": "Dev_repo/Test/cienie_11_match_lines.pdf",
-              "thumb": "Dev_repo/Test/cienie_11_match_lines.png",
-              "solution": "Dev_repo/Test/cienie_11_match_lines.png",
+              "title": "Cienie test 11",
+              "pdf": "Test/cienie_11_match_lines.pdf",
+              "thumb": "Test/cienie_11_match_lines.png",
+              "solution": "Test/cienie_11_match_lines.png",
               "type": "select_object"
             },
             {
               "id": "cienie_test_12",
-              "title": "Cienie test",
-              "pdf": "Dev_repo/Test/cienie_12_match_lines.pdf",
-              "thumb": "Dev_repo/Test/cienie_12_match_lines.png",
-              "solution": "Dev_repo/Test/cienie_12_match_lines.png",
+              "title": "Cienie test 12",
+              "pdf": "Test/cienie_12_match_lines.pdf",
+              "thumb": "Test/cienie_12_match_lines.png",
+              "solution": "Test/cienie_12_match_lines.png",
               "type": "select_object"
             },
             {
               "id": "cienie_test_13",
-              "title": "Cienie test",
-              "pdf": "Dev_repo/Test/cienie_13_match_lines.pdf",
-              "thumb": "Dev_repo/Test/cienie_13_match_lines.png",
-              "solution": "Dev_repo/Test/cienie_13_match_lines.png",
+              "title": "Cienie test 13",
+              "pdf": "Test/cienie_13_match_lines.pdf",
+              "thumb": "Test/cienie_13_match_lines.png",
+              "solution": "Test/cienie_13_match_lines.png",
               "type": "select_object"
             },
             {
               "id": "cienie_test_14",
-              "title": "Cienie test",
-              "pdf": "Dev_repo/Test/cienie_14_match_lines.pdf",
-              "thumb": "Dev_repo/Test/cienie_14_match_lines.png",
-              "solution": "Dev_repo/Test/cienie_14_match_lines.png",
+              "title": "Cienie test 14",
+              "pdf": "Test/cienie_14_match_lines.pdf",
+              "thumb": "Test/cienie_14_match_lines.png",
+              "solution": "Test/cienie_14_match_lines.png",
               "type": "select_object"
             },
             {
               "id": "cienie_test_15",
-              "title": "Cienie test",
-              "pdf": "Dev_repo/Test/cienie_15_match_lines.pdf",
-              "thumb": "Dev_repo/Test/cienie_15_match_lines.png",
-              "solution": "Dev_repo/Test/cienie_15_match_lines.png",
+              "title": "Cienie test 15",
+              "pdf": "Test/cienie_15_match_lines.pdf",
+              "thumb": "Test/cienie_15_match_lines.png",
+              "solution": "Test/cienie_15_match_lines.png",
               "type": "select_object"
             }
           ]
