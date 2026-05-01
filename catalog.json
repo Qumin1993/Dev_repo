@@ -107,18 +107,18 @@
             {
               "id": "cienie_jungla_6",
               "title": "Jungla 6",
-              "pdf": "Jungla/Jungla_6_match_lines.pdf",
-              "thumb": "Jungla/Jungla_6_match_lines.png",
-              "solution": "Jungla/Jungla_6_match_lines_solution.png",
-              "type": "match_lines"
+              "pdf": "Jungla/Jungla_6_select_object.pdf",
+              "thumb": "Jungla/Jungla_6_select_object.png",
+              "solution": "Jungla/Jungla_6_select_object_solution.png",
+              "type": "select_object"
             },
             {
               "id": "cienie_jungla_7",
               "title": "Jungla 7",
-              "pdf": "Jungla/Jungla_7_match_lines.pdf",
-              "thumb": "Jungla/Jungla_7_match_lines.png",
-              "solution": "Jungla/Jungla_7_match_lines_solution.png",
-              "type": "match_lines"
+              "pdf": "Jungla/Jungla_7_select_object.pdf",
+              "thumb": "Jungla/Jungla_7_select_object.png",
+              "solution": "Jungla/Jungla_7_select_object_solution.png",
+              "type": "select_object"
             }
           ]
         }
