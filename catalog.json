@@ -63,6 +63,62 @@
               "thumb": "Dev_repo/Test/cienie_15_match_lines.png",
               "solution": "Dev_repo/Test/cienie_15_match_lines_solution.png",
               "type": "select_object"
+            },
+            {
+              "id": "cienie_jungla_1",
+              "title": "Jungla 1",
+              "pdf": "Jungla/Jungla_1_match_lines.pdf",
+              "thumb": "Jungla/Jungla_1_match_lines.png",
+              "solution": "Jungla/Jungla_1_match_lines_solution.png",
+              "type": "match_lines"
+            },
+            {
+              "id": "cienie_jungla_2",
+              "title": "Jungla 2",
+              "pdf": "Jungla/Jungla_2_match_lines.pdf",
+              "thumb": "Jungla/Jungla_2_match_lines.png",
+              "solution": "Jungla/Jungla_2_match_lines_solution.png",
+              "type": "match_lines"
+            },
+            {
+              "id": "cienie_jungla_3",
+              "title": "Jungla 3",
+              "pdf": "Jungla/Jungla_3_match_lines.pdf",
+              "thumb": "Jungla/Jungla_3_match_lines.png",
+              "solution": "Jungla/Jungla_3_match_lines_solution.png",
+              "type": "match_lines"
+            },
+            {
+              "id": "cienie_jungla_4",
+              "title": "Jungla 4",
+              "pdf": "Jungla/Jungla_4_match_lines.pdf",
+              "thumb": "Jungla/Jungla_4_match_lines.png",
+              "solution": "Jungla/Jungla_4_match_lines_solution.png",
+              "type": "match_lines"
+            },
+            {
+              "id": "cienie_jungla_5",
+              "title": "Jungla 5",
+              "pdf": "Jungla/Jungla_5_match_lines.pdf",
+              "thumb": "Jungla/Jungla_5_match_lines.png",
+              "solution": "Jungla/Jungla_5_match_lines_solution.png",
+              "type": "match_lines"
+            },
+            {
+              "id": "cienie_jungla_6",
+              "title": "Jungla 6",
+              "pdf": "Jungla/Jungla_6_match_lines.pdf",
+              "thumb": "Jungla/Jungla_6_match_lines.png",
+              "solution": "Jungla/Jungla_6_match_lines_solution.png",
+              "type": "match_lines"
+            },
+            {
+              "id": "cienie_jungla_7",
+              "title": "Jungla 7",
+              "pdf": "Jungla/Jungla_7_match_lines.pdf",
+              "thumb": "Jungla/Jungla_7_match_lines.png",
+              "solution": "Jungla/Jungla_7_match_lines_solution.png",
+              "type": "match_lines"
             }
           ]
         }
