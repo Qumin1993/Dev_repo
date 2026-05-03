@@ -119,6 +119,46 @@
               "thumb": "Jungla/Jungla_7_select_object.png",
               "solution": "Jungla/Jungla_7_select_object_solution.png",
               "type": "select_object"
+            },
+            {
+              "id": "cienie_jungla_8",
+              "title": "Jungla 8",
+              "pdf": "Junglacut/jungla_wytnij_przyklej1.pdf",
+              "thumb": "Junglacut/jungla_wytnij_przyklej1.png",
+              "solution": "Junglacut/jungla_wytnij_przyklej1.png",
+              "type": "cut_paste"
+            },
+            {
+              "id": "cienie_jungla_9",
+              "title": "Jungla 9",
+              "pdf": "Junglacut/jungla_wytnij_przyklej2.pdf",
+              "thumb": "Junglacut/jungla_wytnij_przyklej2.png",
+              "solution": "Junglacut/jungla_wytnij_przyklej2.png",
+              "type": "cut_paste"
+            },
+            {
+              "id": "cienie_jungla_10",
+              "title": "Jungla 10",
+              "pdf": "Junglacut/jungla_wytnij_przyklej3.pdf",
+              "thumb": "Junglacut/jungla_wytnij_przyklej3.png",
+              "solution": "Junglacut/jungla_wytnij_przyklej3.png",
+              "type": "cut_paste"
+            },
+            {
+              "id": "cienie_jungla_11",
+              "title": "Jungla 11",
+              "pdf": "Junglacut/jungla_wytnij_przyklej4.pdf",
+              "thumb": "Junglacut/jungla_wytnij_przyklej4.png",
+              "solution": "Junglacut/jungla_wytnij_przyklej4.png",
+              "type": "cut_paste"
+            },
+            {
+              "id": "cienie_jungla_12",
+              "title": "Jungla 12",
+              "pdf": "Junglacut/jungla_wytnij_przyklej5.pdf",
+              "thumb": "Junglacut/jungla_wytnij_przyklej5.png",
+              "solution": "Junglacut/jungla_wytnij_przyklej5.png",
+              "type": "cut_paste"
             }
           ]
         }
