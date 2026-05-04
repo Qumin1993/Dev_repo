@@ -164,40 +164,40 @@
               "id": "Labirynt_Jungla1",
               "title": "Labirynt_Jungla 1",
               "pdf": "Dev_repo/Jungla_Labirynt/LabityntJungla_1_track.pdf",
-              "thumb": "Dev_repo/Test/LabityntJungla_1_track.jpg",
-              "solution": "Dev_repo/Test/LabityntJungla_1_track_solution.png",
+              "thumb": "Dev_repo/Jungla_Labirynt/LabityntJungla_1_track.jpg",
+              "solution": "Dev_repo/Jungla_Labirynt/LabityntJungla_1_track_solution.png",
               "type": "track"
             },
             {
               "id": "Labirynt_Jungla2",
               "title": "Labirynt_Jungla 2",
               "pdf": "Dev_repo/Jungla_Labirynt/LabityntJungla_2_track.pdf",
-              "thumb": "Dev_repo/Test/LabityntJungla_2_track.jpg",
-              "solution": "Dev_repo/Test/LabityntJungla_2_track_solution.png",
+              "thumb": "Dev_repo/Jungla_Labirynt/LabityntJungla_2_track.jpg",
+              "solution": "Dev_repo/Jungla_Labirynt/LabityntJungla_2_track_solution.png",
               "type": "track"
             },
             {
               "id": "Labirynt_Jungla3",
               "title": "Labirynt_Jungla 3",
               "pdf": "Dev_repo/Jungla_Labirynt/LabityntJungla_3_track.pdf",
-              "thumb": "Dev_repo/Test/LabityntJungla_3_track.jpg",
-              "solution": "Dev_repo/Test/LabityntJungla_3_track_solution.png",
+              "thumb": "Dev_repo/Jungla_Labirynt/LabityntJungla_3_track.jpg",
+              "solution": "Dev_repo/Jungla_Labirynt/LabityntJungla_3_track_solution.png",
               "type": "track"
             },
             {
               "id": "Labirynt_Jungla4",
               "title": "Labirynt_Jungla 4",
               "pdf": "Dev_repo/Jungla_Labirynt/LabityntJungla_4_track.pdf",
-              "thumb": "Dev_repo/Test/LabityntJungla_4_track.jpg",
-              "solution": "Dev_repo/Test/LabityntJungla_4_track_solution.png",
+              "thumb": "Dev_repo/Jungla_Labirynt/LabityntJungla_4_track.jpg",
+              "solution": "Dev_repo/Jungla_Labirynt/LabityntJungla_4_track_solution.png",
               "type": "track"
             },
             {
               "id": "Labirynt_Jungla5",
               "title": "Labirynt_Jungla 5",
               "pdf": "Dev_repo/Jungla_Labirynt/LabityntJungla_5_track.pdf",
-              "thumb": "Dev_repo/Test/LabityntJungla_5_track.jpg",
-              "solution": "Dev_repo/Test/LabityntJungla_5_track_solution.png",
+              "thumb": "Dev_repo/Jungla_Labirynt/LabityntJungla_5_track.jpg",
+              "solution": "Dev_repo/Jungla_Labirynt/LabityntJungla_5_track_solution.png",
               "type": "track"
             }
           ]
