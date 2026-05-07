@@ -161,6 +161,14 @@
               "type": "cut_paste"
             },
             {
+              "id": "Jungla_A_track",
+              "title": "Jungla_A_track",
+              "pdf": "Junglacut/Jungla_A_track.pdf",
+              "thumb": "Junglacut/Jungla_A_track.jpg",
+              "solution": "Junglacut/Jungla_A_track_solution.png",
+              "type": "track"
+            },
+            {
               "id": "Labirynt_Jungla1",
               "title": "Labirynt_Jungla 1",
               "pdf": "Jungla_Labirynty/LabiryntJungla_1_track.pdf",
