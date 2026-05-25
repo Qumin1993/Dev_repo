@@ -22,7 +22,11 @@
               "pdf": "Dev_repo/Test/cienie.pdf",
               "thumb": "Dev_repo/Test/cienie.png",
               "solution": "Dev_repo/Test/cienie_solution.png",
-              "type": "select_object"
+              "type": "select_object",
+              "instruction": {
+              "pl": "Czy potrafisz połączyć zwierzęta z ich cieniami?",
+              "en": "Can you match the animals with their shadows?"
+              }
             },
             {
               "id": "cienie_test_11",
@@ -30,7 +34,11 @@
               "pdf": "Dev_repo/Test/cienie_11_match_lines.pdf",
               "thumb": "Dev_repo/Test/cienie_11_match_lines.png",
               "solution": "Dev_repo/Test/cienie_11_match_lines_solution.png",
-              "type": "select_object"
+              "type": "select_object",
+              "instruction": {
+              "pl": "Czy potrafisz połączyć zwierzęta z ich cieniami?",
+              "en": "Can you match the animals with their shadows?"
+              }
             },
             {
               "id": "cienie_test_12",
@@ -38,7 +46,11 @@
               "pdf": "Dev_repo/Test/cienie_12_match_lines.pdf",
               "thumb": "Dev_repo/Test/cienie_12_match_lines.png",
               "solution": "Dev_repo/Test/cienie_12_match_lines_solution.png",
-              "type": "select_object"
+              "type": "select_object",
+              "instruction": {
+              "pl": "Czy potrafisz połączyć zwierzęta z ich cieniami?",
+              "en": "Can you match the animals with their shadows?"
+              }
             },
             {
               "id": "cienie_test_13",
